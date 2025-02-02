@@ -16,7 +16,7 @@
 							<h4 class="content-title mb-0 my-auto">قائمة الفواتير</h4><span class="text-muted mt-1 tx-13 mr-2 mb-0">/ فواتير المبيعات</span>
 						</div>
 					</div>
-					
+
 				</div>
 				<!-- breadcrumb -->
 @endsection
@@ -30,7 +30,8 @@
 									<h4 class="card-title mg-b-0">إنشاء فاتورة مبيعات</h4>
 									<i class="mdi mdi-dots-horizontal text-gray"></i>
 								</div>
-								<p class="tx-12 tx-gray-500 mb-2">Example of Valex Striped Rows.. <a href="">Learn more</a></p>
+								<a href="invoices/create" class="modal-effect btn btn-sm btn-primary" style="color:white"><i
+                                class="fas fa-plus"></i>&nbsp; اضافة فاتورة</a>
 							</div>
 							<div class="card-body">
 								<div class="table-responsive">
@@ -66,7 +67,7 @@
 												<td>$654,765</td>
 												<td>b.Chloe@datatables.net</td>
 											</tr>
-											
+
 										</tbody>
 									</table>
 								</div>
@@ -76,7 +77,7 @@
 					<!--/div-->
 
 					<!--div-->
-					
+
 				<!-- /row -->
 			</div>
 			<!-- Container closed -->
